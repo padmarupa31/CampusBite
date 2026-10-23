@@ -102,3 +102,15 @@ This repository contains the CampusBite brand assets and documentation for the P
 ---
 
 **CampusBite — Order Fast. Eat Fresh.**
+
+## Project Resources
+
+All CampusBite project assets and supporting materials are available in the Google Drive folder below.
+
+📁 **[View CampusBite Project Files on Google Drive](https://drive.google.com/drive/u/0/folders/1J7np3B33E84X8B1Xlw6nuoZJE2ITR9ut)**
+
+The folder contains the project materials created throughout the UI/UX workflow.
+
+## Author
+
+**Padmaroopa D.**  
