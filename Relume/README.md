@@ -19,3 +19,8 @@ Relume was used to plan the CampusBite website structure and page layouts.
 
 ## Purpose
 The sitemap defines the website hierarchy, while the wireframes plan the layout of each page.
+
+## Relume Project Links
+
+- **Sitemap:** [View CampusBite Sitemap](https://www.relume.ai/app/project/P3561817_VLWjhsWYXnLXFkitvW7GOZlViUNtBqflAYYCLoOH5HM#mode=sitemap)
+- **Wireframes:** [View CampusBite Wireframes](https://www.relume.ai/app/project/P3561817_VLWjhsWYXnLXFkitvW7GOZlViUNtBqflAYYCLoOH5HM#mode=wireframe)
