@@ -19,5 +19,10 @@ CampusBite is a college food ordering website designed to make campus food order
 
 **Tagline:** Order Fast. Eat Fresh.
 
-## Live Website
-https://chocolate-emails-509240.framer.app/
+## Framer Project Links
+
+**Published Website:**  
+[https://chocolate-emails-509240.framer.app/](https://chocolate-emails-509240.framer.app/)
+
+**Framer Project Overview:**  
+[https://framer.com/projects/CampusBite--u8SoZbmcNqyKeeW2Edak-29SMe?node=augiA20Il](https://framer.com/projects/CampusBite--u8SoZbmcNqyKeeW2Edak-29SMe?node=augiA20Il)
